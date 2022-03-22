@@ -1,3 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata"/>
-
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>Training</fullName>
+        <categories>Trainings</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Training</shortDescription>
+        <value>Prior preparation prevents piss poor performance</value>
+    </labels>
+</CustomLabels>
