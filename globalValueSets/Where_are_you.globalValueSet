@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Home</fullName>
+        <default>true</default>
+        <label>Home</label>
+    </customValue>
+    <customValue>
+        <fullName>School</fullName>
+        <default>false</default>
+        <label>School</label>
+    </customValue>
+    <customValue>
+        <fullName>Work</fullName>
+        <default>false</default>
+        <label>Work</label>
+    </customValue>
+    <customValue>
+        <fullName>Mom&apos;s</fullName>
+        <default>false</default>
+        <label>Mom&apos;s</label>
+    </customValue>
+    <customValue>
+        <fullName>Dad&apos;s</fullName>
+        <default>false</default>
+        <label>Dad&apos;s</label>
+    </customValue>
+    <customValue>
+        <fullName>Friends</fullName>
+        <default>false</default>
+        <label>Friends</label>
+    </customValue>
+    <customValue>
+        <fullName>Partners</fullName>
+        <default>false</default>
+        <label>Partners</label>
+    </customValue>
+    <customValue>
+        <fullName>Significant Others</fullName>
+        <default>false</default>
+        <label>Significant Others</label>
+    </customValue>
+    <customValue>
+        <fullName>Drive-Thru at In-N-Out</fullName>
+        <default>false</default>
+        <label>Drive-Thru at In-N-Out</label>
+    </customValue>
+    <customValue>
+        <fullName>Other</fullName>
+        <default>false</default>
+        <label>Other</label>
+    </customValue>
+    <description>Where are you....really tell us?</description>
+    <masterLabel>Where are you</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>
