@@ -23,6 +23,6 @@ public class LeadProcessor implements Database.Batchable<sObject>{
             WHERE Id = :bc.getJobId()];
          System.debug('Finished updating leads' + job);
     }
-    /** THis is the test **/
+   
   
 }
