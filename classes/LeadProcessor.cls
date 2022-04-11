@@ -15,7 +15,7 @@ public class LeadProcessor implements Database.Batchable<sObject>{
         update updatedLeadList;
     }
     public void finish(Database.BatchableContext bc) {
-        System.debug('Finished updating leads please');
+        System.debug('Finished updating leads');
           AsyncApexJob job = [SELECT Id, Status, NumberOfErrors,
             JobItemsProcessed,
             TotalJobItems, CreatedBy.Email
