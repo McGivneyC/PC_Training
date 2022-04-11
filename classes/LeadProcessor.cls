@@ -1,3 +1,6 @@
+/**
+Add a header comment
+**/
 public class LeadProcessor implements Database.Batchable<sObject>{
     public Database.QueryLocator Start(Database.BatchableContext bc) {
         return Database.getQueryLocator([SELECT LeadSource, Id, Name FROM Lead]);
@@ -12,7 +15,7 @@ public class LeadProcessor implements Database.Batchable<sObject>{
         update updatedLeadList;
     }
     public void finish(Database.BatchableContext bc) {
-        System.debug('Finished updating leads');
+        System.debug('Finished updating leads please');
           AsyncApexJob job = [SELECT Id, Status, NumberOfErrors,
             JobItemsProcessed,
             TotalJobItems, CreatedBy.Email
@@ -20,6 +23,5 @@ public class LeadProcessor implements Database.Batchable<sObject>{
             WHERE Id = :bc.getJobId()];
          System.debug('Finished updating leads' + job);
     }
-    /**This is not a test **/
-    /** This is a test **/
+  
 }
