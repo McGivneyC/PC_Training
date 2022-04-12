@@ -24,5 +24,7 @@ public class LeadProcessor implements Database.Batchable<sObject>{
          System.debug('Finished updating leads' + job);
     }
    
-  
+      public void test() {
+      System.debug('This is a test');
+      }
 }
