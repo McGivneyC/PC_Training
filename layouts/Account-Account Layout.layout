@@ -33,6 +33,10 @@
                 <behavior>Edit</behavior>
                 <field>Check_Me_Out__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Training_Test__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
