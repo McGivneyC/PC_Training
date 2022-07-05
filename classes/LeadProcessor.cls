@@ -1,3 +1,6 @@
+/**
+ * @description Hello World
+ */
 public class LeadProcessor implements Database.Batchable<sObject>{
     public Database.QueryLocator Start(Database.BatchableContext bc) {
         return Database.getQueryLocator([SELECT LeadSource, Id, Name FROM Lead]);
@@ -20,4 +23,9 @@ public class LeadProcessor implements Database.Batchable<sObject>{
             WHERE Id = :bc.getJobId()];
          System.debug('Finished updating leads' + job);
     }
+   
+      public void test() {
+      System.debug('This is a test');
+      }
+      /** This is a comment **/
 }
