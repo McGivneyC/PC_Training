@@ -27,4 +27,5 @@ public class LeadProcessor implements Database.Batchable<sObject>{
       public void test() {
       System.debug('This is a test');
       }
+      /** This is a comment **/
 }
