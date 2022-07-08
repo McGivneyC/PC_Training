@@ -146,6 +146,14 @@
         <visible>false</visible>
     </applicationVisibilities>
     <classAccesses>
+        <apexClass>LeadProcessor</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>LeadProcessorTest</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>copado__ADD_DependencyHandler</apexClass>
         <enabled>false</enabled>
     </classAccesses>
