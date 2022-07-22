@@ -17,9 +17,13 @@
     <tabs>standard-Opportunity</tabs>
     <tabs>standard-Lead</tabs>
     <tabs>MobileLanding</tabs>
+    <tabs>Demo__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>LightningSalesConsole_UtilityBar</utilityBar>
     <workspaceConfig>
+        <mappings>
+            <tab>Demo__c</tab>
+        </mappings>
         <mappings>
             <tab>MobileLanding</tab>
         </mappings>

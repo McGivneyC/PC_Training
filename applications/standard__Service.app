@@ -14,4 +14,5 @@
     <tabs>standard-Chatter</tabs>
     <tabs>standard-File</tabs>
     <tabs>MobileLanding</tabs>
+    <tabs>Demo__c</tabs>
 </CustomApplication>

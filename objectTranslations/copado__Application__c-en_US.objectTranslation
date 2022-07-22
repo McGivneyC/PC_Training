@@ -39,7 +39,7 @@
         </picklistValues>
     </fields>
     <fields>
-        <label><!-- Stability Status --></label>
+        <label><!-- Stability Icon --></label>
         <name>copado__Stability_Icon__c</name>
     </fields>
     <fields>

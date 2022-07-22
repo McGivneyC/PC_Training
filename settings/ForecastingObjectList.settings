@@ -90,6 +90,10 @@
             <label>Next Step</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00N2C0000029WIr</field>
+            <label>External Id</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>UPDATEDBY_USER.ALIAS</field>
             <label>Last Modified By Alias</label>
         </forecastingObjectListLabelMappings>
@@ -182,6 +186,7 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N8c00000O9clc</field>
             <field>00N8c00000O9cld</field>
+            <field>00N2C0000029WIr</field>
             <field>00N8c00000O9clf</field>
             <field>00N8c00000O9cle</field>
         </forecastingObjectListUnselectedSettings>
@@ -277,6 +282,10 @@
             <label>Next Step</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00N2C0000029WIr</field>
+            <label>External Id</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>UPDATEDBY_USER.ALIAS</field>
             <label>Last Modified By Alias</label>
         </forecastingObjectListLabelMappings>
@@ -369,6 +378,7 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N8c00000O9clc</field>
             <field>00N8c00000O9cld</field>
+            <field>00N2C0000029WIr</field>
             <field>00N8c00000O9clf</field>
             <field>00N8c00000O9cle</field>
         </forecastingObjectListUnselectedSettings>
@@ -464,6 +474,10 @@
             <label>Next Step</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00N2C0000029WIr</field>
+            <label>External Id</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>UPDATEDBY_USER.ALIAS</field>
             <label>Last Modified By Alias</label>
         </forecastingObjectListLabelMappings>
@@ -561,6 +575,7 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N8c00000O9clc</field>
             <field>00N8c00000O9cld</field>
+            <field>00N2C0000029WIr</field>
             <field>00N8c00000O9clf</field>
             <field>00N8c00000O9cle</field>
         </forecastingObjectListUnselectedSettings>
@@ -656,6 +671,10 @@
             <label>Next Step</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00N2C0000029WIr</field>
+            <label>External Id</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>UPDATEDBY_USER.ALIAS</field>
             <label>Last Modified By Alias</label>
         </forecastingObjectListLabelMappings>
@@ -748,6 +767,7 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N8c00000O9clc</field>
             <field>00N8c00000O9cld</field>
+            <field>00N2C0000029WIr</field>
             <field>00N8c00000O9clf</field>
             <field>00N8c00000O9cle</field>
         </forecastingObjectListUnselectedSettings>
@@ -843,6 +863,10 @@
             <label>Next Step</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00N2C0000029WIr</field>
+            <label>External Id</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>UPDATEDBY_USER.ALIAS</field>
             <label>Last Modified By Alias</label>
         </forecastingObjectListLabelMappings>
@@ -940,6 +964,7 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N8c00000O9clc</field>
             <field>00N8c00000O9cld</field>
+            <field>00N2C0000029WIr</field>
             <field>00N8c00000O9clf</field>
             <field>00N8c00000O9cle</field>
         </forecastingObjectListUnselectedSettings>
@@ -1035,6 +1060,10 @@
             <label>Next Step</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00N2C0000029WIr</field>
+            <label>External Id</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>UPDATEDBY_USER.ALIAS</field>
             <label>Last Modified By Alias</label>
         </forecastingObjectListLabelMappings>
@@ -1127,6 +1156,7 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N8c00000O9clc</field>
             <field>00N8c00000O9cld</field>
+            <field>00N2C0000029WIr</field>
             <field>00N8c00000O9clf</field>
             <field>00N8c00000O9cle</field>
         </forecastingObjectListUnselectedSettings>
@@ -1222,6 +1252,10 @@
             <label>Next Step</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00N2C0000029WIr</field>
+            <label>External Id</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>UPDATEDBY_USER.ALIAS</field>
             <label>Last Modified By Alias</label>
         </forecastingObjectListLabelMappings>
@@ -1319,6 +1353,7 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N8c00000O9clc</field>
             <field>00N8c00000O9cld</field>
+            <field>00N2C0000029WIr</field>
             <field>00N8c00000O9clf</field>
             <field>00N8c00000O9cle</field>
         </forecastingObjectListUnselectedSettings>
@@ -1414,6 +1449,10 @@
             <label>Next Step</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00N2C0000029WIr</field>
+            <label>External Id</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>UPDATEDBY_USER.ALIAS</field>
             <label>Last Modified By Alias</label>
         </forecastingObjectListLabelMappings>
@@ -1506,6 +1545,7 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N8c00000O9clc</field>
             <field>00N8c00000O9cld</field>
+            <field>00N2C0000029WIr</field>
             <field>00N8c00000O9clf</field>
             <field>00N8c00000O9cle</field>
         </forecastingObjectListUnselectedSettings>
@@ -1601,6 +1641,10 @@
             <label>Next Step</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00N2C0000029WIr</field>
+            <label>External Id</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>UPDATEDBY_USER.ALIAS</field>
             <label>Last Modified By Alias</label>
         </forecastingObjectListLabelMappings>
@@ -1698,6 +1742,7 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N8c00000O9clc</field>
             <field>00N8c00000O9cld</field>
+            <field>00N2C0000029WIr</field>
             <field>00N8c00000O9clf</field>
             <field>00N8c00000O9cle</field>
         </forecastingObjectListUnselectedSettings>
@@ -1793,6 +1838,10 @@
             <label>Next Step</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00N2C0000029WIr</field>
+            <label>External Id</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>UPDATEDBY_USER.ALIAS</field>
             <label>Last Modified By Alias</label>
         </forecastingObjectListLabelMappings>
@@ -1885,6 +1934,7 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N8c00000O9clc</field>
             <field>00N8c00000O9cld</field>
+            <field>00N2C0000029WIr</field>
             <field>00N8c00000O9clf</field>
             <field>00N8c00000O9cle</field>
         </forecastingObjectListUnselectedSettings>
@@ -1978,6 +2028,10 @@
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NEXT_STEP</field>
             <label>Next Step</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N2C0000029WIr</field>
+            <label>External Id</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>UPDATEDBY_USER.ALIAS</field>
@@ -2077,6 +2131,7 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N8c00000O9clc</field>
             <field>00N8c00000O9cld</field>
+            <field>00N2C0000029WIr</field>
             <field>00N8c00000O9clf</field>
             <field>00N8c00000O9cle</field>
         </forecastingObjectListUnselectedSettings>
@@ -2172,6 +2227,10 @@
             <label>Next Step</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00N2C0000029WIr</field>
+            <label>External Id</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>UPDATEDBY_USER.ALIAS</field>
             <label>Last Modified By Alias</label>
         </forecastingObjectListLabelMappings>
@@ -2264,6 +2323,7 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N8c00000O9clc</field>
             <field>00N8c00000O9cld</field>
+            <field>00N2C0000029WIr</field>
             <field>00N8c00000O9clf</field>
             <field>00N8c00000O9cle</field>
         </forecastingObjectListUnselectedSettings>

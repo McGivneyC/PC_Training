@@ -6,7 +6,7 @@
         <name>copado__ApexCallback__c</name>
     </fields>
     <fields>
-        <label><!-- Copado Credits Used --></label>
+        <label><!-- Custom Function Used Credits --></label>
         <name>copado__Custom_Function_Used_Credits__c</name>
     </fields>
     <fields>
@@ -68,18 +68,12 @@
         <relationshipLabel><!-- Results --></relationshipLabel>
     </fields>
     <fields>
-        <help><!-- When this result is the outcome of a Job Step, that is executed as part of a Job Template, this fields points to the Job Step. (note that Job Step and Function can be populated at the same time) --></help>
-        <label><!-- Job Step --></label>
-        <name>copado__JobStep__c</name>
-        <relationshipLabel><!-- Results --></relationshipLabel>
-    </fields>
-    <fields>
         <help><!-- Unique identifier for the jobs. This is as an External Id for mapping this result with an external job. --></help>
-        <label><!-- External Job ID --></label>
+        <label><!-- Job Id --></label>
         <name>copado__Job_Id__c</name>
     </fields>
     <fields>
-        <label><!-- Job API Name --></label>
+        <label><!-- Job Type --></label>
         <name>copado__Job_Type__c</name>
         <picklistValues>
             <masterLabel>Integration</masterLabel>
@@ -88,16 +82,12 @@
     </fields>
     <fields>
         <help><!-- Link to open more information about the results. --></help>
-        <label><!-- External Result Link --></label>
+        <label><!-- Link --></label>
         <name>copado__Link__c</name>
     </fields>
     <fields>
-        <label><!-- Context ID --></label>
+        <label><!-- ParentId --></label>
         <name>copado__ParentId__c</name>
-    </fields>
-    <fields>
-        <label><!-- Parent --></label>
-        <name>copado__Parent__c</name>
     </fields>
     <fields>
         <help><!-- This status is used to track the current job activity. --></help>
@@ -145,13 +135,7 @@
         </picklistValues>
     </fields>
     <fields>
-        <help><!-- Test Parent object that trigger the execution. --></help>
-        <label><!-- Test --></label>
-        <name>copado__Test__c</name>
-        <relationshipLabel><!-- Results --></relationshipLabel>
-    </fields>
-    <fields>
-        <label><!-- Timeout (minutes) --></label>
+        <label><!-- Timeout --></label>
         <name>copado__Timeout__c</name>
     </fields>
     <fields>

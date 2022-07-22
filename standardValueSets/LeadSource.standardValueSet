@@ -51,4 +51,9 @@
         <default>false</default>
         <label>Website</label>
     </standardValue>
+    <standardValue>
+        <fullName>Loved One</fullName>
+        <default>false</default>
+        <label>Loved One</label>
+    </standardValue>
 </StandardValueSet>

@@ -8,5 +8,13 @@
         <plural>true</plural>
         <value>Demos</value>
     </caseValues>
+    <fields>
+        <label><!-- Demo Date --></label>
+        <name>Demo_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Demo Time --></label>
+        <name>Demo_Time__c</name>
+    </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

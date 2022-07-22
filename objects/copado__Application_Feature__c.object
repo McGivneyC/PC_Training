@@ -141,23 +141,13 @@
         <type>Default</type>
     </actionOverrides>
     <allowInChatterGroups>false</allowInChatterGroups>
-    <compactLayoutAssignment>copado__Feature_Highlight_Panel</compactLayoutAssignment>
-    <compactLayouts>
-        <fullName>copado__Feature_Highlight_Panel</fullName>
-        <fields>Name</fields>
-        <fields>copado__Status__c</fields>
-        <fields>copado__Application__c</fields>
-        <fields>copado__Epic__c</fields>
-        <fields>copado__Product_Owner__c</fields>
-        <fields>copado__Priority__c</fields>
-        <label>Feature Highlight Panel</label>
-    </compactLayouts>
+    <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <deploymentStatus>Deployed</deploymentStatus>
     <deprecated>false</deprecated>
     <description>Copado&apos;s Feature object enables you to manage Features related to User Stories &amp; Applications. Features are made up of multiple User Stories.</description>
     <enableActivities>true</enableActivities>
     <enableBulkApi>true</enableBulkApi>
-    <enableFeeds>true</enableFeeds>
+    <enableFeeds>false</enableFeeds>
     <enableHistory>true</enableHistory>
     <enableLicensing>false</enableLicensing>
     <enableReports>true</enableReports>
@@ -175,7 +165,6 @@
         <relationshipLabel>Features</relationshipLabel>
         <relationshipName>ApplicationFeatures</relationshipName>
         <required>false</required>
-        <trackFeedHistory>true</trackFeedHistory>
         <trackHistory>false</trackHistory>
         <trackTrending>false</trackTrending>
         <type>Lookup</type>
@@ -189,7 +178,6 @@
         <referenceTo>User</referenceTo>
         <relationshipName>FeatureArchitects</relationshipName>
         <required>false</required>
-        <trackFeedHistory>true</trackFeedHistory>
         <trackHistory>false</trackHistory>
         <trackTrending>false</trackTrending>
         <type>Lookup</type>
@@ -202,7 +190,6 @@
         <precision>10</precision>
         <required>false</required>
         <scale>0</scale>
-        <trackFeedHistory>true</trackFeedHistory>
         <trackHistory>false</trackHistory>
         <trackTrending>false</trackTrending>
         <type>Number</type>
@@ -214,7 +201,6 @@
         <externalId>false</externalId>
         <label>Description</label>
         <length>131072</length>
-        <trackFeedHistory>true</trackFeedHistory>
         <trackHistory>false</trackHistory>
         <trackTrending>false</trackTrending>
         <type>Html</type>
@@ -230,7 +216,6 @@
         <relationshipLabel>Features</relationshipLabel>
         <relationshipName>ApplicaitonFeatures</relationshipName>
         <required>false</required>
-        <trackFeedHistory>true</trackFeedHistory>
         <trackHistory>false</trackHistory>
         <trackTrending>false</trackTrending>
         <type>Lookup</type>
@@ -243,7 +228,6 @@
         <precision>18</precision>
         <required>false</required>
         <scale>2</scale>
-        <trackFeedHistory>true</trackFeedHistory>
         <trackHistory>false</trackHistory>
         <trackTrending>false</trackTrending>
         <type>Currency</type>
@@ -254,7 +238,6 @@
         <externalId>false</externalId>
         <label>Priority</label>
         <required>false</required>
-        <trackFeedHistory>true</trackFeedHistory>
         <trackHistory>false</trackHistory>
         <trackTrending>false</trackTrending>
         <type>Picklist</type>
@@ -298,7 +281,6 @@
         <referenceTo>User</referenceTo>
         <relationshipName>FeatureOwners</relationshipName>
         <required>false</required>
-        <trackFeedHistory>true</trackFeedHistory>
         <trackHistory>false</trackHistory>
         <trackTrending>false</trackTrending>
         <type>Lookup</type>
@@ -310,7 +292,6 @@
         <inlineHelpText>Status of Feature</inlineHelpText>
         <label>Status</label>
         <required>false</required>
-        <trackFeedHistory>true</trackFeedHistory>
         <trackHistory>false</trackHistory>
         <trackTrending>false</trackTrending>
         <type>Picklist</type>
@@ -367,7 +348,6 @@
         <inlineHelpText>Technical Assumptions or Design Considerations for Feature</inlineHelpText>
         <label>Technical Assumptions</label>
         <length>32768</length>
-        <trackFeedHistory>true</trackFeedHistory>
         <trackHistory>false</trackHistory>
         <trackTrending>false</trackTrending>
         <type>Html</type>
@@ -381,7 +361,6 @@
         <precision>18</precision>
         <required>false</required>
         <scale>0</scale>
-        <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>false</trackHistory>
         <trackTrending>false</trackTrending>
         <type>Number</type>
@@ -394,7 +373,6 @@
         <inlineHelpText>Business Value of Feature</inlineHelpText>
         <label>Value Type</label>
         <required>false</required>
-        <trackFeedHistory>true</trackFeedHistory>
         <trackHistory>false</trackHistory>
         <trackTrending>false</trackTrending>
         <type>Picklist</type>
@@ -422,7 +400,6 @@
     </listViews>
     <nameField>
         <label>Feature Name</label>
-        <trackFeedHistory>true</trackFeedHistory>
         <trackHistory>false</trackHistory>
         <type>Text</type>
     </nameField>

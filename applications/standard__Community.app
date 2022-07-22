@@ -11,4 +11,5 @@
     <tabs>standard-report</tabs>
     <tabs>standard-Dashboard</tabs>
     <tabs>MobileLanding</tabs>
+    <tabs>Demo__c</tabs>
 </CustomApplication>

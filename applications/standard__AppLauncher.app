@@ -7,4 +7,5 @@
     <tabs>standard-AppLauncher</tabs>
     <tabs>standard-Quote</tabs>
     <tabs>MobileLanding</tabs>
+    <tabs>Demo__c</tabs>
 </CustomApplication>

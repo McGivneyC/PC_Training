@@ -182,7 +182,11 @@
     <tabs>standard-Lead</tabs>
     <tabs>standard-Knowledge</tabs>
     <tabs>MobileLanding</tabs>
+    <tabs>Demo__c</tabs>
     <workspaceConfig>
+        <mappings>
+            <tab>Demo__c</tab>
+        </mappings>
         <mappings>
             <tab>MobileLanding</tab>
         </mappings>

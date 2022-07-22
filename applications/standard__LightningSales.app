@@ -29,5 +29,6 @@
     <tabs>standard-Quote</tabs>
     <tabs>standard-LightningQuickText</tabs>
     <tabs>MobileLanding</tabs>
+    <tabs>Demo__c</tabs>
     <uiType>Lightning</uiType>
 </CustomApplication>

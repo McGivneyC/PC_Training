@@ -28,5 +28,6 @@
     <tabs>standard-Case</tabs>
     <tabs>standard-Product2</tabs>
     <tabs>MobileLanding</tabs>
+    <tabs>Demo__c</tabs>
     <uiType>Lightning</uiType>
 </CustomApplication>

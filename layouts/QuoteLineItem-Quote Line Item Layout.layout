@@ -30,6 +30,10 @@
                 <behavior>Required</behavior>
                 <field>Quantity</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Required</behavior>
+                <field>External_Id__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
@@ -88,6 +92,7 @@
     <multilineLayoutFields>Discount</multilineLayoutFields>
     <multilineLayoutFields>TotalPrice</multilineLayoutFields>
     <multilineLayoutFields>QuoteId</multilineLayoutFields>
+    <multilineLayoutFields>External_Id__c</multilineLayoutFields>
     <showEmailCheckbox>false</showEmailCheckbox>
     <showRunAssignmentRulesCheckbox>false</showRunAssignmentRulesCheckbox>
     <showSubmitAndAttachButton>false</showSubmitAndAttachButton>

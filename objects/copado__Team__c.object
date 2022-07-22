@@ -318,11 +318,7 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>Teams</pluralLabel>
-    <searchLayouts>
-        <searchResultsAdditionalFields>copado__Active__c</searchResultsAdditionalFields>
-        <searchResultsAdditionalFields>copado__Department__c</searchResultsAdditionalFields>
-        <searchResultsAdditionalFields>OWNER.FIRST_NAME</searchResultsAdditionalFields>
-    </searchLayouts>
+    <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>

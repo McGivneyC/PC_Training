@@ -16,4 +16,5 @@
     <tabs>standard-Forecasting3</tabs>
     <tabs>standard-Quote</tabs>
     <tabs>MobileLanding</tabs>
+    <tabs>Demo__c</tabs>
 </CustomApplication>

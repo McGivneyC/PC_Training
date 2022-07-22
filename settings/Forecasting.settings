@@ -234,6 +234,10 @@
             <label>Discovery Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N2C0000029WIr</field>
+            <label>External Id</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N8c00000O9clf</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
@@ -278,6 +282,7 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N8c00000O9clc</field>
             <field>00N8c00000O9cld</field>
+            <field>00N2C0000029WIr</field>
             <field>00N8c00000O9clf</field>
             <field>00N8c00000O9cle</field>
         </opportunityListFieldsUnselectedSettings>
@@ -438,6 +443,10 @@
             <label>Discovery Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N2C0000029WIr</field>
+            <label>External Id</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N8c00000O9clf</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
@@ -482,6 +491,7 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N8c00000O9clc</field>
             <field>00N8c00000O9cld</field>
+            <field>00N2C0000029WIr</field>
             <field>00N8c00000O9clf</field>
             <field>00N8c00000O9cle</field>
         </opportunityListFieldsUnselectedSettings>
@@ -646,6 +656,10 @@
             <label>Discovery Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N2C0000029WIr</field>
+            <label>External Id</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N8c00000O9clf</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
@@ -691,6 +705,7 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N8c00000O9clc</field>
             <field>00N8c00000O9cld</field>
+            <field>00N2C0000029WIr</field>
             <field>00N8c00000O9clf</field>
             <field>00N8c00000O9cle</field>
         </opportunityListFieldsUnselectedSettings>
@@ -851,6 +866,10 @@
             <label>Discovery Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N2C0000029WIr</field>
+            <label>External Id</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N8c00000O9clf</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
@@ -895,6 +914,7 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N8c00000O9clc</field>
             <field>00N8c00000O9cld</field>
+            <field>00N2C0000029WIr</field>
             <field>00N8c00000O9clf</field>
             <field>00N8c00000O9cle</field>
         </opportunityListFieldsUnselectedSettings>
@@ -1059,6 +1079,10 @@
             <label>Discovery Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N2C0000029WIr</field>
+            <label>External Id</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N8c00000O9clf</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
@@ -1104,6 +1128,7 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N8c00000O9clc</field>
             <field>00N8c00000O9cld</field>
+            <field>00N2C0000029WIr</field>
             <field>00N8c00000O9clf</field>
             <field>00N8c00000O9cle</field>
         </opportunityListFieldsUnselectedSettings>
@@ -1264,6 +1289,10 @@
             <label>Discovery Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N2C0000029WIr</field>
+            <label>External Id</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N8c00000O9clf</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
@@ -1308,6 +1337,7 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N8c00000O9clc</field>
             <field>00N8c00000O9cld</field>
+            <field>00N2C0000029WIr</field>
             <field>00N8c00000O9clf</field>
             <field>00N8c00000O9cle</field>
         </opportunityListFieldsUnselectedSettings>
@@ -1472,6 +1502,10 @@
             <label>Discovery Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N2C0000029WIr</field>
+            <label>External Id</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N8c00000O9clf</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
@@ -1517,6 +1551,7 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N8c00000O9clc</field>
             <field>00N8c00000O9cld</field>
+            <field>00N2C0000029WIr</field>
             <field>00N8c00000O9clf</field>
             <field>00N8c00000O9cle</field>
         </opportunityListFieldsUnselectedSettings>
@@ -1677,6 +1712,10 @@
             <label>Discovery Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N2C0000029WIr</field>
+            <label>External Id</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N8c00000O9clf</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
@@ -1721,6 +1760,7 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N8c00000O9clc</field>
             <field>00N8c00000O9cld</field>
+            <field>00N2C0000029WIr</field>
             <field>00N8c00000O9clf</field>
             <field>00N8c00000O9cle</field>
         </opportunityListFieldsUnselectedSettings>
@@ -1885,6 +1925,10 @@
             <label>Discovery Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N2C0000029WIr</field>
+            <label>External Id</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N8c00000O9clf</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
@@ -1930,6 +1974,7 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N8c00000O9clc</field>
             <field>00N8c00000O9cld</field>
+            <field>00N2C0000029WIr</field>
             <field>00N8c00000O9clf</field>
             <field>00N8c00000O9cle</field>
         </opportunityListFieldsUnselectedSettings>
@@ -2090,6 +2135,10 @@
             <label>Discovery Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N2C0000029WIr</field>
+            <label>External Id</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N8c00000O9clf</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
@@ -2134,6 +2183,7 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N8c00000O9clc</field>
             <field>00N8c00000O9cld</field>
+            <field>00N2C0000029WIr</field>
             <field>00N8c00000O9clf</field>
             <field>00N8c00000O9cle</field>
         </opportunityListFieldsUnselectedSettings>
@@ -2298,6 +2348,10 @@
             <label>Discovery Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N2C0000029WIr</field>
+            <label>External Id</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N8c00000O9clf</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
@@ -2343,6 +2397,7 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N8c00000O9clc</field>
             <field>00N8c00000O9cld</field>
+            <field>00N2C0000029WIr</field>
             <field>00N8c00000O9clf</field>
             <field>00N8c00000O9cle</field>
         </opportunityListFieldsUnselectedSettings>
@@ -2503,6 +2558,10 @@
             <label>Discovery Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N2C0000029WIr</field>
+            <label>External Id</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N8c00000O9clf</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
@@ -2547,6 +2606,7 @@
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N8c00000O9clc</field>
             <field>00N8c00000O9cld</field>
+            <field>00N2C0000029WIr</field>
             <field>00N8c00000O9clf</field>
             <field>00N8c00000O9cle</field>
         </opportunityListFieldsUnselectedSettings>

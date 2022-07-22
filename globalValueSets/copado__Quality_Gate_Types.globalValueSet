@@ -51,11 +51,6 @@
         <label>URL Callout</label>
     </customValue>
     <customValue>
-        <fullName>Test</fullName>
-        <default>false</default>
-        <label>Test</label>
-    </customValue>
-    <customValue>
         <fullName>Automation Template</fullName>
         <default>false</default>
         <isActive>false</isActive>

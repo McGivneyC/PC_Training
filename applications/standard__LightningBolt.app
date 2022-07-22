@@ -8,5 +8,6 @@
     <navType>Standard</navType>
     <tabs>standard-LightningBoltHome</tabs>
     <tabs>MobileLanding</tabs>
+    <tabs>Demo__c</tabs>
     <uiType>Lightning</uiType>
 </CustomApplication>
