@@ -126,6 +126,14 @@
         <visible>false</visible>
     </applicationVisibilities>
     <classAccesses>
+        <apexClass>AAAConflict</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>AAAConflictTest</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>LeadProcessor</apexClass>
         <enabled>true</enabled>
     </classAccesses>
