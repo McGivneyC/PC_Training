@@ -103,9 +103,11 @@
     <externalSharingModel>ControlledByParent</externalSharingModel>
     <fields>
         <fullName>Description</fullName>
+        <trackHistory>false</trackHistory>
     </fields>
     <fields>
         <fullName>Discount</fullName>
+        <trackHistory>false</trackHistory>
     </fields>
     <fields>
         <fullName>External_Id__c</fullName>
@@ -114,37 +116,51 @@
         <label>External Id</label>
         <length>100</length>
         <required>true</required>
+        <trackHistory>false</trackHistory>
         <type>Text</type>
         <unique>true</unique>
     </fields>
     <fields>
+        <fullName>LineNumber</fullName>
+        <trackHistory>false</trackHistory>
+    </fields>
+    <fields>
         <fullName>ListPrice</fullName>
+        <trackHistory>false</trackHistory>
     </fields>
     <fields>
         <fullName>Product2Id</fullName>
+        <trackHistory>false</trackHistory>
         <type>Lookup</type>
     </fields>
     <fields>
         <fullName>ProductCode</fullName>
+        <trackHistory>false</trackHistory>
     </fields>
     <fields>
         <fullName>Quantity</fullName>
+        <trackHistory>false</trackHistory>
     </fields>
     <fields>
         <fullName>QuoteId</fullName>
+        <trackHistory>false</trackHistory>
         <type>MasterDetail</type>
     </fields>
     <fields>
         <fullName>ServiceDate</fullName>
+        <trackHistory>false</trackHistory>
     </fields>
     <fields>
         <fullName>Subtotal</fullName>
+        <trackHistory>false</trackHistory>
     </fields>
     <fields>
         <fullName>TotalPrice</fullName>
+        <trackHistory>false</trackHistory>
     </fields>
     <fields>
         <fullName>UnitPrice</fullName>
+        <trackHistory>false</trackHistory>
     </fields>
     <sharingModel>ControlledByParent</sharingModel>
 </CustomObject>
