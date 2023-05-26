@@ -13462,6 +13462,9 @@
     <layoutAssignments>
         <layout>ServiceContract-Service Contract Layout</layout>
     </layoutAssignments>
+    <layoutAssignments>
+        <layout>TestingCopadoDelete__c-TestingCopadoDelete Layout</layout>
+    </layoutAssignments>
     <objectPermissions>
         <allowCreate>false</allowCreate>
         <allowDelete>false</allowDelete>
