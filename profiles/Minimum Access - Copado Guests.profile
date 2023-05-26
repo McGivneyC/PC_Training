@@ -6,5 +6,8 @@
         <field>Account.Training_Test__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <layoutAssignments>
+        <layout>TestingCopadoDelete__c-TestingCopadoDelete Layout</layout>
+    </layoutAssignments>
     <userLicense>Salesforce</userLicense>
 </Profile>
