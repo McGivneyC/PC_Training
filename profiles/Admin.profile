@@ -15894,10 +15894,6 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
-        <name>SocialInsightsLogoAdmin</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
         <name>SolutionImport</name>
     </userPermissions>
     <userPermissions>
