@@ -12008,102 +12008,6 @@
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
-        <object>AgentWork</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>AppAnalyticsQueryRequest</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>Asset</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>AssetRelationship</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>AssetTokenEvent</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>AssociatedLocation</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>AsyncOperationEvent</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>AsyncOperationStatus</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>Attachment</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>AuthorizationForm</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>AuthorizationFormConsent</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>AuthorizationFormDataUse</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>AuthorizationFormText</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>BatchApexErrorEvent</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>BusinessBrand</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>Campaign</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>CampaignMember</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>Case</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>CaseComment</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>CaseExternalDocument</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>CaseRelatedIssue</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>ChangeRequest</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>ChangeRequestRelatedIssue</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>ChangeRequestRelatedItem</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>ChatterActivity</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>CollaborationGroup</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>CollaborationGroupMember</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>CollaborationGroupRecord</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>CommSubscription</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>CommSubscriptionChannelType</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>CommSubscriptionConsent</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>CommSubscriptionTiming</object>
-    </objectPermissions>
-    <objectPermissions>
         <allowCreate>false</allowCreate>
         <allowDelete>false</allowDelete>
         <allowEdit>false</allowEdit>
@@ -12113,39 +12017,6 @@
         <viewAllRecords>false</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
-        <object>ContactPointAddress</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>ContactPointConsent</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>ContactPointEmail</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>ContactPointPhone</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>ContactPointTypeConsent</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>ContactRequest</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>ContentDistribution</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>ContentDocument</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>ContentDocumentLink</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>ContentVersion</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>Contract</object>
-    </objectPermissions>
-    <objectPermissions>
         <allowCreate>false</allowCreate>
         <allowDelete>false</allowDelete>
         <allowEdit>false</allowEdit>
@@ -12153,39 +12024,6 @@
         <modifyAllRecords>false</modifyAllRecords>
         <object>ContractLineItem</object>
         <viewAllRecords>false</viewAllRecords>
-    </objectPermissions>
-    <objectPermissions>
-        <object>ConversationContextEntry</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>Customer</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>DataObjectDataChgEvent</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>DataUseLegalBasis</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>DataUsePurpose</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>Demo__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>Document</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>DuplicateRecordItem</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>DuplicateRecordSet</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>EmailMessage</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>EngagementChannelType</object>
     </objectPermissions>
     <objectPermissions>
         <allowCreate>false</allowCreate>
@@ -12206,51 +12044,6 @@
         <viewAllRecords>false</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
-        <object>EntityMilestone</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>Event</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>EventRelayFeedback</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>FeedComment</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>FeedItem</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>Idea</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>IdeaComment</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>Image</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>Incident</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>IncidentRelatedItem</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>Individual</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>Knowledge__ka</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>Knowledge__kav</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>Lead</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>LinkedArticle</object>
-    </objectPermissions>
-    <objectPermissions>
         <allowCreate>false</allowCreate>
         <allowDelete>false</allowDelete>
         <allowEdit>false</allowEdit>
@@ -12269,9 +12062,6 @@
         <viewAllRecords>false</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
-        <object>LiveChatTranscriptEvent</object>
-    </objectPermissions>
-    <objectPermissions>
         <allowCreate>false</allowCreate>
         <allowDelete>false</allowDelete>
         <allowEdit>false</allowEdit>
@@ -12279,114 +12069,6 @@
         <modifyAllRecords>false</modifyAllRecords>
         <object>LiveChatVisitor</object>
         <viewAllRecords>false</viewAllRecords>
-    </objectPermissions>
-    <objectPermissions>
-        <object>Location</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>LocationTrustMeasure</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>Location__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>LogoutEventStream</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>Macro</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>MacroUsage</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>MessagingDeliveryError</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>MessagingEndUser</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>MessagingSession</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>Note</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>Opportunity</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>OpportunityContactRole</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>OpportunityLineItem</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>Order</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>OrderItem</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>OrgLifecycleNotification</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>OrgMetric</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>OrgMetricScanResult</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>OrgMetricScanSummary</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>Partner</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>PartyConsent</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>PendingServiceRouting</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>PlatformStatusAlertEvent</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>Pricebook2</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>Problem</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>ProblemIncident</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>ProblemRelatedItem</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>ProcessException</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>ProcessExceptionEvent</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>Product2</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>ProfileSkill</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>ProfileSkillEndorsement</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>ProfileSkillUser</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>PromptAction</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>PromptError</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>PushTopic</object>
     </objectPermissions>
     <objectPermissions>
         <allowCreate>false</allowCreate>
@@ -12398,27 +12080,6 @@
         <viewAllRecords>false</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
-        <object>QuickTextUsage</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>Quote</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>QuoteLineItem</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>Recommendation</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>RecommendationResponse</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>RecordAction</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>Seller</object>
-    </objectPermissions>
-    <objectPermissions>
         <allowCreate>false</allowCreate>
         <allowDelete>false</allowDelete>
         <allowEdit>false</allowEdit>
@@ -12426,432 +12087,6 @@
         <modifyAllRecords>false</modifyAllRecords>
         <object>ServiceContract</object>
         <viewAllRecords>false</viewAllRecords>
-    </objectPermissions>
-    <objectPermissions>
-        <object>ServiceResource</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>SetupAssistantStep</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>SocialPersona</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>SocialPost</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>Solution</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>StreamingChannel</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>Task</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>TestingCopadoDelete__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>Topic</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>TopicAssignment</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>User</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>UserProvAccount</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>UserProvAccountStaging</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>UserProvMockTarget</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>UserProvisioningLog</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>UserProvisioningRequest</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>UserServicePresence</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>WorkBadge</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>WorkBadgeDefinition</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>WorkOrder</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>WorkOrderLineItem</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>WorkPlan</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>WorkPlanTemplate</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>WorkPlanTemplateEntry</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>WorkStep</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>WorkStepTemplate</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>WorkThanks</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Apex_Test_Result__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Application_Feature__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Application__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Artifact_Dependency__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Artifact_Version__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Artifact__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Automation_Template_For_CLI__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__AuxiliaryObject__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Branch_Management_Permission__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Build_Task__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Bundled_Story__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Bundled_UserStory__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Burndown_Item__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Change_Management_Settings__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Compliance_Finding__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Compliance_Rule_Criteria__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Compliance_Rule_Group_Item__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Compliance_Rule_Group__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Compliance_Rule__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Compliance_Scan_Result__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Connection_Behavior__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Continuous_Integration_Permission__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Continuous_Integration__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Copado_Feature__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Copado_Notification__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Copado_Setting__mdt</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Copado_Smart_Help__mdt</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Data_Change_Event_Condition_Items__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Data_Change_Event_Condition__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Data_Change_Event__e</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Data_Set__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Data_Template_Setup__mdt</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Data_Template__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Deployment_Flow_Step__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Deployment_Flow__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Deployment_History__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Deployment_Job__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Deployment_Task__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Deployment__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Destination_Org__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Environment__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Environmental_Variable__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Epic__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Event__e</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__External_CI_Job_Result__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__External_CI_Job__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__External_CI_Setting__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Filter__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Function__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Git_Backup__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Git_Commit__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Git_Operation_Restriction__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Git_Org_Commit__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Git_Repository__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Kanban_Board_View__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Kanban_Board__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__MC_Result__e</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Metadata_Group_Item__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Metadata_Group__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__MultiCloudAutomation__mdt</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__OrgDiff__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Org__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Persona_Permission__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Persona__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Personal_Settings__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Project__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Promoted_User_Story__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Promotion__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Pull_Request_Review__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Pull_Request__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Quality_Gate__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Record_Matching_Formula__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Release__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Result__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Scheduled_Job_Run__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Scheduled_Job__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Scratch_Org_Definition__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Scratch_Org_Project_Template__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Selenium_Group_Org_Credential__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Selenium_Group_Test_Suite__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Selenium_Group_Variable__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Selenium_Locator_Reference__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Selenium_Locator__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Selenium_Settings__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Selenium_Test_Case_Per_Suite__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Selenium_Test_Case__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Selenium_Test_Group__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Selenium_Test_Result__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Selenium_Test_Run__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Selenium_Test_Suite__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Snapshot_Difference__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Sprint__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__StandardResources__mdt</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Static_Code_Analysis_Result__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Static_Code_Analysis_Rule__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Static_Code_Analysis_Settings__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Static_Code_Analysis_Violation__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Step__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Streaming_Setting__mdt</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__System_Property__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Team_Dependency__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Team_Member__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Team__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Test_Run_Step__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Test_Run__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Test_Script_Step__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Test_Script__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__Theme__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__User_Persona_Assignment__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__User_Story_Bundle__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__User_Story_Commit__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__User_Story_Data_Commit__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__User_Story_Metadata__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__User_Story_Selenium_Test__c</object>
-    </objectPermissions>
-    <objectPermissions>
-        <object>copado__User_Story_Task__c</object>
     </objectPermissions>
     <objectPermissions>
         <allowCreate>false</allowCreate>
@@ -13967,10 +13202,6 @@
         <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>
-        <tab>standard-BackgroundOperation</tab>
-        <visibility>Hidden</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
         <tab>standard-BusinessBrand</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
@@ -13980,10 +13211,6 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>standard-Case</tab>
-        <visibility>Hidden</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
-        <tab>standard-ChangeRequest</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>
@@ -14027,10 +13254,6 @@
         <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>
-        <tab>standard-ContentNote</tab>
-        <visibility>Hidden</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
         <tab>standard-Contract</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
@@ -14055,23 +13278,11 @@
         <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>
-        <tab>standard-DeleteEvent</tab>
-        <visibility>Hidden</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
-        <tab>standard-DiscoveryForAccounts</tab>
-        <visibility>Hidden</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
         <tab>standard-Document</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>
         <tab>standard-DuplicateRecordSet</tab>
-        <visibility>Hidden</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
-        <tab>standard-EmailTemplate</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>
@@ -14083,27 +13294,7 @@
         <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>
-        <tab>standard-Event</tab>
-        <visibility>Hidden</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
-        <tab>standard-Feed</tab>
-        <visibility>Hidden</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
         <tab>standard-File</tab>
-        <visibility>Hidden</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
-        <tab>standard-FlowInterview</tab>
-        <visibility>Hidden</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
-        <tab>standard-FlowOrchestrationInstance</tab>
-        <visibility>Hidden</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
-        <tab>standard-FlowOrchestrationWorkItem</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>
@@ -14119,10 +13310,6 @@
         <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>
-        <tab>standard-Incident</tab>
-        <visibility>Hidden</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
         <tab>standard-Individual</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
@@ -14132,14 +13319,6 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>standard-Lead</tab>
-        <visibility>Hidden</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
-        <tab>standard-LightningBoltHome</tab>
-        <visibility>Hidden</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
-        <tab>standard-LightningQuickText</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>
@@ -14171,39 +13350,11 @@
         <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>
-        <tab>standard-MessagingEndUser</tab>
-        <visibility>Hidden</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
-        <tab>standard-MessagingSession</tab>
-        <visibility>Hidden</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
-        <tab>standard-MobileHome</tab>
-        <visibility>Hidden</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
-        <tab>standard-News</tab>
-        <visibility>Hidden</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
-        <tab>standard-OmniSupervisorLightning</tab>
-        <visibility>Hidden</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
-        <tab>standard-OnlineSalesHome</tab>
-        <visibility>Hidden</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
         <tab>standard-Opportunity</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>
         <tab>standard-Order</tab>
-        <visibility>Hidden</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
-        <tab>standard-OrgMetric</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>
@@ -14219,15 +13370,7 @@
         <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>
-        <tab>standard-Problem</tab>
-        <visibility>Hidden</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
         <tab>standard-ProcessException</tab>
-        <visibility>Hidden</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
-        <tab>standard-ProcessInstanceWorkitem</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>
@@ -14295,23 +13438,11 @@
         <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>
-        <tab>standard-Task</tab>
-        <visibility>Hidden</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
-        <tab>standard-Today</tab>
-        <visibility>Hidden</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
         <tab>standard-UserProfile</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>
         <tab>standard-UserProvisioningRequest</tab>
-        <visibility>Hidden</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
-        <tab>standard-WaveHomeLightning</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>
@@ -14340,11 +13471,31 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>standard-home</tab>
-        <visibility>DefaultOn</visibility>
+        <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>
         <tab>standard-report</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
     <userLicense>Salesforce</userLicense>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ActivitiesAccess</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>AllowViewKnowledge</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ChatterInternalUser</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>LightningConsoleAllowedForUser</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ViewHelpLink</name>
+    </userPermissions>
 </Profile>
