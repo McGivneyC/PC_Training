@@ -268,14 +268,15 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
-        <fullName>External_Id__c</fullName>
+        <fullName>External_ID__c</fullName>
+        <caseSensitive>false</caseSensitive>
         <externalId>true</externalId>
-        <label>External Id</label>
+        <label>External ID</label>
         <length>255</length>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Text</type>
-        <unique>false</unique>
+        <unique>true</unique>
     </fields>
     <fields>
         <fullName>Fax</fullName>

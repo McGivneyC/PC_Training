@@ -3886,7 +3886,7 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Account.External_Id__c</field>
+        <field>Account.External_ID__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -4616,6 +4616,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>Contact.Custom_Converted_Contact__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>Contact.Department</field>
         <readable>false</readable>
     </fieldPermissions>
@@ -4632,6 +4637,11 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>Contact.Email</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Contact.External_ID__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -5561,6 +5571,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>Lead.Contact__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>Lead.Description</field>
         <readable>false</readable>
     </fieldPermissions>
@@ -5622,6 +5637,11 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>Lead.NumberOfEmployees</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Lead.Opportunity__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -6002,6 +6022,11 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>Opportunity.ContractId</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Opportunity.Custom_Converted_Opportunity__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>

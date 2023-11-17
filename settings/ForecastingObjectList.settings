@@ -42,6 +42,10 @@
             <label>Won</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00N2C000002PJUO</field>
+            <label>Custom Converted Opportunity</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
             <label>Probability (%)</label>
         </forecastingObjectListLabelMappings>
@@ -95,7 +99,7 @@
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>00N2C0000029WIr</field>
-            <label>External Id</label>
+            <label>External ID</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>UPDATEDBY_USER.ALIAS</field>
@@ -193,6 +197,7 @@
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N8c00000O9clc</field>
+            <field>00N2C000002PJUO</field>
             <field>00N8c00000O9cld</field>
             <field>00N2C0000029WIr</field>
             <field>00N8c00000O9clf</field>
@@ -244,6 +249,10 @@
             <label>Won</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00N2C000002PJUO</field>
+            <label>Custom Converted Opportunity</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
             <label>Probability (%)</label>
         </forecastingObjectListLabelMappings>
@@ -297,7 +306,7 @@
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>00N2C0000029WIr</field>
-            <label>External Id</label>
+            <label>External ID</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>UPDATEDBY_USER.ALIAS</field>
@@ -395,6 +404,7 @@
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N8c00000O9clc</field>
+            <field>00N2C000002PJUO</field>
             <field>00N8c00000O9cld</field>
             <field>00N2C0000029WIr</field>
             <field>00N8c00000O9clf</field>
@@ -446,6 +456,10 @@
             <label>Won</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00N2C000002PJUO</field>
+            <label>Custom Converted Opportunity</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
             <label>Probability (%)</label>
         </forecastingObjectListLabelMappings>
@@ -499,7 +513,7 @@
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>00N2C0000029WIr</field>
-            <label>External Id</label>
+            <label>External ID</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>UPDATEDBY_USER.ALIAS</field>
@@ -602,6 +616,7 @@
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N8c00000O9clc</field>
+            <field>00N2C000002PJUO</field>
             <field>00N8c00000O9cld</field>
             <field>00N2C0000029WIr</field>
             <field>00N8c00000O9clf</field>
@@ -653,6 +668,10 @@
             <label>Won</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00N2C000002PJUO</field>
+            <label>Custom Converted Opportunity</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
             <label>Probability (%)</label>
         </forecastingObjectListLabelMappings>
@@ -706,7 +725,7 @@
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>00N2C0000029WIr</field>
-            <label>External Id</label>
+            <label>External ID</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>UPDATEDBY_USER.ALIAS</field>
@@ -804,6 +823,7 @@
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N8c00000O9clc</field>
+            <field>00N2C000002PJUO</field>
             <field>00N8c00000O9cld</field>
             <field>00N2C0000029WIr</field>
             <field>00N8c00000O9clf</field>
@@ -855,6 +875,10 @@
             <label>Won</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00N2C000002PJUO</field>
+            <label>Custom Converted Opportunity</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
             <label>Probability (%)</label>
         </forecastingObjectListLabelMappings>
@@ -908,7 +932,7 @@
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>00N2C0000029WIr</field>
-            <label>External Id</label>
+            <label>External ID</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>UPDATEDBY_USER.ALIAS</field>
@@ -1011,6 +1035,7 @@
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N8c00000O9clc</field>
+            <field>00N2C000002PJUO</field>
             <field>00N8c00000O9cld</field>
             <field>00N2C0000029WIr</field>
             <field>00N8c00000O9clf</field>
@@ -1062,6 +1087,10 @@
             <label>Won</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00N2C000002PJUO</field>
+            <label>Custom Converted Opportunity</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
             <label>Probability (%)</label>
         </forecastingObjectListLabelMappings>
@@ -1115,7 +1144,7 @@
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>00N2C0000029WIr</field>
-            <label>External Id</label>
+            <label>External ID</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>UPDATEDBY_USER.ALIAS</field>
@@ -1213,6 +1242,7 @@
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N8c00000O9clc</field>
+            <field>00N2C000002PJUO</field>
             <field>00N8c00000O9cld</field>
             <field>00N2C0000029WIr</field>
             <field>00N8c00000O9clf</field>
@@ -1264,6 +1294,10 @@
             <label>Won</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00N2C000002PJUO</field>
+            <label>Custom Converted Opportunity</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
             <label>Probability (%)</label>
         </forecastingObjectListLabelMappings>
@@ -1317,7 +1351,7 @@
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>00N2C0000029WIr</field>
-            <label>External Id</label>
+            <label>External ID</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>UPDATEDBY_USER.ALIAS</field>
@@ -1420,6 +1454,7 @@
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N8c00000O9clc</field>
+            <field>00N2C000002PJUO</field>
             <field>00N8c00000O9cld</field>
             <field>00N2C0000029WIr</field>
             <field>00N8c00000O9clf</field>
@@ -1471,6 +1506,10 @@
             <label>Won</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00N2C000002PJUO</field>
+            <label>Custom Converted Opportunity</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
             <label>Probability (%)</label>
         </forecastingObjectListLabelMappings>
@@ -1524,7 +1563,7 @@
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>00N2C0000029WIr</field>
-            <label>External Id</label>
+            <label>External ID</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>UPDATEDBY_USER.ALIAS</field>
@@ -1622,6 +1661,7 @@
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N8c00000O9clc</field>
+            <field>00N2C000002PJUO</field>
             <field>00N8c00000O9cld</field>
             <field>00N2C0000029WIr</field>
             <field>00N8c00000O9clf</field>
@@ -1673,6 +1713,10 @@
             <label>Won</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00N2C000002PJUO</field>
+            <label>Custom Converted Opportunity</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
             <label>Probability (%)</label>
         </forecastingObjectListLabelMappings>
@@ -1726,7 +1770,7 @@
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>00N2C0000029WIr</field>
-            <label>External Id</label>
+            <label>External ID</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>UPDATEDBY_USER.ALIAS</field>
@@ -1829,6 +1873,7 @@
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N8c00000O9clc</field>
+            <field>00N2C000002PJUO</field>
             <field>00N8c00000O9cld</field>
             <field>00N2C0000029WIr</field>
             <field>00N8c00000O9clf</field>
@@ -1880,6 +1925,10 @@
             <label>Won</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00N2C000002PJUO</field>
+            <label>Custom Converted Opportunity</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
             <label>Probability (%)</label>
         </forecastingObjectListLabelMappings>
@@ -1933,7 +1982,7 @@
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>00N2C0000029WIr</field>
-            <label>External Id</label>
+            <label>External ID</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>UPDATEDBY_USER.ALIAS</field>
@@ -2031,6 +2080,7 @@
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N8c00000O9clc</field>
+            <field>00N2C000002PJUO</field>
             <field>00N8c00000O9cld</field>
             <field>00N2C0000029WIr</field>
             <field>00N8c00000O9clf</field>
@@ -2080,6 +2130,10 @@
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.WON</field>
             <label>Won</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N2C000002PJUO</field>
+            <label>Custom Converted Opportunity</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
@@ -2135,7 +2189,7 @@
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>00N2C0000029WIr</field>
-            <label>External Id</label>
+            <label>External ID</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>UPDATEDBY_USER.ALIAS</field>
@@ -2238,6 +2292,7 @@
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N8c00000O9clc</field>
+            <field>00N2C000002PJUO</field>
             <field>00N8c00000O9cld</field>
             <field>00N2C0000029WIr</field>
             <field>00N8c00000O9clf</field>
@@ -2287,6 +2342,10 @@
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.WON</field>
             <label>Won</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00N2C000002PJUO</field>
+            <label>Custom Converted Opportunity</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
@@ -2342,7 +2401,7 @@
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>00N2C0000029WIr</field>
-            <label>External Id</label>
+            <label>External ID</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>UPDATEDBY_USER.ALIAS</field>
@@ -2440,6 +2499,7 @@
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N8c00000O9clc</field>
+            <field>00N2C000002PJUO</field>
             <field>00N8c00000O9cld</field>
             <field>00N2C0000029WIr</field>
             <field>00N8c00000O9clf</field>

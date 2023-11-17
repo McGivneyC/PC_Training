@@ -192,6 +192,17 @@
         <type>Lookup</type>
     </fields>
     <fields>
+        <fullName>Custom_Converted_Opportunity__c</fullName>
+        <externalId>false</externalId>
+        <label>Custom Converted Opportunity</label>
+        <length>255</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Description</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <trackTrending>false</trackTrending>
@@ -210,11 +221,11 @@
         <trackTrending>false</trackTrending>
     </fields>
     <fields>
-        <fullName>External_Id__c</fullName>
+        <fullName>External_ID__c</fullName>
         <caseSensitive>false</caseSensitive>
         <externalId>true</externalId>
-        <label>External Id</label>
-        <length>100</length>
+        <label>External ID</label>
+        <length>255</length>
         <required>true</required>
         <trackFeedHistory>false</trackFeedHistory>
         <trackTrending>false</trackTrending>
