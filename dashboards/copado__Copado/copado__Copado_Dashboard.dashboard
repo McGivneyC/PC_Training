@@ -59,6 +59,7 @@
             <sortBy>RowLabelAscending</sortBy>
         </components>
     </middleSection>
+    <owner>cmmcgivney84-phgz@force.com</owner>
     <rightSection>
         <columnSize>Medium</columnSize>
         <components>
